@@ -1,0 +1,45 @@
+<DOCTYPE html>
+  
+ <html lang="en">
+   <html>
+     <body>
+       <link href='//fonts.googleapis.com/css?family=Heebo' rel='stylesheet'>
+       <link href='//fonts.googleapis.com/css?family=Jacques Francois Shadow' rel='stylesheet'>
+     <img src="https://static.spokanecity.org/images/blog/2013/10/07/budget-focused-on-citizen-priorities-future/large/budget.jpg" alt="spokane" class="mainphoto"/>
+    <img src="https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/15977946_109501379557607_8772967763037254929_n.jpg?oh=a6385f7cf8306ae18c5e78c9d209b246&oe=592A3B4A" alt="me" class="me" />
+       <h1 class="background">Erica Swenson</h1>
+     </body>
+     <nav>
+     
+  <a href="Home"></a>
+       <a href="Blog"></a>
+   <a href="Menu"></a>
+     </nav>
+  <h2>About Me</h2>
+    <body>
+      <img src="https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/11885132_10204372312299148_4617714162306999001_n.jpg?oh=692b7c6074b8296533c71115e93d4210&oe=5930F9BF" alt="meandjosie" class="aboutme" />
+     <p>
+       My name is Erica Swenson and I was born in Spokane WA. </p> 
+     <p>I am a Communications Major and VCD minor. </p> 
+     <p>When I'm not in school, I am usually at Joann Fabrics where I work part time. </p>
+     <p>I have two adorable Australian Shepherds and one rather lazy cat. </p> 
+     <p>I also love spending as much time as possible with outdoors an with my friends and family. </p>
+     </body>
+     
+    <h3 class="headings"> Favorite Foods</h3>
+     <img src="https://scontent-sjc2-1.xx.fbcdn.net/v/t34.0-12/17354815_10208022982043610_1045435056_n.jpg?oh=a024cbfb051488b2916761bcac9ea4fa&oe=58CC8F0A" alt="pho" class="bodypictures" />
+     <img src="https://scontent-sjc2-1.xx.fbcdn.net/v/t34.0-12/17354966_10208022985243690_2065624697_n.jpg?oh=1b505de4ed820313088e97c7e111f79a&oe=58CD86DD" alt="pizza" class="bodypictures" />
+     <img src="https://scontent-sjc2-1.xx.fbcdn.net/v/t34.0-12/17361320_10208022985283691_1481345146_n.jpg?oh=ea2de78de0c99e31851d05d92ef21598&oe=58CDC8EE" alt="steak" class="bodypictures" />
+ <h3 class="headings"> Favorite Movies</h3>
+     <img src="https://pixel.nymag.com/imgs/daily/vulture/2016/12/18/18-Star-Wars-Logo.w190.h190.2x.jpg" alt="starwars" class="bodypictures" />
+     <img src="https://scontent-sjc2-1.xx.fbcdn.net/v/t34.0-12/16901576_10207855714222019_296281002_n.jpg?oh=a9930aba3de979f6b5d8d2642bec3634&oe=58CBC818" alt="theholiday" class="bodypictures" />
+     <img src="http://www.hans-zimmer.com/~hybrid/hgw/THEMARTIANCS.jpg" alt="themartian" class="bodypictures" />
+   <h3 class="headings"> Favorite Books </h3>
+     <img src="https://scontent-sjc2-1.xx.fbcdn.net/v/t34.0-12/16933772_10207855759743157_1486890771_n.jpg?oh=a27f72301dfebda7e48347e522eb2d5c&oe=58CACFE1" alt="hp" class="bodypictures" />
+     <img src="https://scontent-sjc2-1.xx.fbcdn.net/v/t34.0-12/16900257_10207855759703156_404279397_n.jpg?oh=79887fd96c44c1e2427afd30e6216ed7&oe=58CAE30A" alt="23" class="bodypictures" />
+     <img src="https://scontent-sjc2-1.xx.fbcdn.net/v/t34.0-12/16923748_10207855771623454_402469397_n.jpg?oh=84543aa477cba13a3af67a8e1e85a893&oe=58CAAEA0" alt="outlander" class="bodypictures" />
+   </html>
+   
+   <h3 class="headings"> Thanks For Checking Out My Page!
+   erica-swenson@hotmail.com</h3>
+   
